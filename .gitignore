@@ -1,0 +1,13 @@
+
+# LTspice simulation artifacts (do not version raw outputs)
+*.raw
+*.log
+*.tmp
+*.bak
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
