@@ -3,6 +3,8 @@
 This repository contains a collection of **Analog VLSI circuit designs** implemented and simulated in **LTspice**.
 It includes fundamental building blocks, amplifiers, ADCs, regulators, and pixel circuits used in imaging and mixed-signal systems.
 
+In Digital VLSI there are 3 verilog codes for the modules which are used with the anlog circuits we see in this module.
+For more on this DIGITAL modules read the Readme in Digital Vlsi file.
 ## 📂 Repository Structure
 
 ```
